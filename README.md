@@ -1,2 +1,2 @@
 # Bip
- re-learning how to use github after a while
+ Re-learning how to use github after a while.
